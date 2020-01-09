@@ -1,0 +1,9 @@
+{
+    "git.ignoreLimitWarning": true,
+    "Lua.diagnostics.globals": [
+        "CreateFrame"
+    ],
+    "Lua.diagnostics.disable": [
+        "undefined-global"
+    ]
+}

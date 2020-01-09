@@ -1,0 +1,17 @@
+## Interface: 80205
+## Title: E|cffD5C280n|r|cffCCAD3Dt|r|cff958859r|r|cff806C26o|r|cffCCBA7Ap|r|cff4D4117y|r
+## Notes: Go away
+## Author: Niseko
+## Version: v1
+## SavedVariables: EntropyDB
+## OptionalDeps: Ace3, LibSharedMedia-3.0, LibDataBroker-1.1, LibDBIcon-1.0.lua
+
+#@no-lib-strip@
+libs\LibStub\LibStub.lua
+libs\CallbackHandler-1.0\CallbackHandler-1.0.xml
+libs\LibSharedMedia-3.0\lib.xml
+#@end-no-lib-strip@
+
+Entropy.xml
+Entropy.lua
+Settings.lua

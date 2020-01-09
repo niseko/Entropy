@@ -1,0 +1,8 @@
+## Interface: 80000
+## Title: E|cffD5C280n|r|cffCCAD3Dt|r|cff958859r|r|cff806C26o|r|cffCCBA7Ap|r|cff4D4117y|r Options
+## Notes: Entropy Options
+## Dependencies: Entropy
+## LoadOnDemand: 1
+libs\LibLimeOption-1.0\LibLimeOption-1.0.xml
+menus.xml
+Core.lua

@@ -11,7 +11,7 @@ local group = {
 	part = true, -- party, only check char 1 to 4
 	raid = true,
 }
--- 코어 프레임 설정
+
 Entropy = CreateFrame("Frame", ..., UIParent, "SecureHandlerAttributeTemplate")
 Entropy:SetScript(
 	"OnEvent",
